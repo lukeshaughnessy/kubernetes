@@ -57,7 +57,7 @@ if [ $hostname == "launcher" ]
 then
 apt-get install -y git
 cd /root
-git clone https://github.com/nitinmidha/kube-cluster.git
+git clone https://github.com/lukeshaughnessy/kubernetes.git
 fi
 
 
